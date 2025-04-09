@@ -2,6 +2,8 @@
 
 SpotifyStats is a project designed to analyze and visualize Spotify data. It includes components for data processing, machine learning, and a client application built with Flutter.
 
+![](https://github.com/GrigorasVictor/Spotify-Stats/blob/main/demo.gif)
+
 ## Project Structure
 
 - `client/`: Contains the Flutter client application.
